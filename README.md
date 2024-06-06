@@ -1,6 +1,6 @@
 ## [Landwind - Tailwind CSS Landing Page](https://https://demo.themesberg.com/landwind/)
 
-<a href="https://github.com/ezeisraeljohn/ezeisraeljohn.github.io/blob/master/images/mofisafe_dashboard.png"</a>
+![MOFISAFE](images/mofisafe_dashboard.png)
 
 Landwind is a free and open-source landing page built for SaaS and product websites based on the Tailwind CSS utility-first framework and the Flowbite Component Library featuring a hero section, customer logos, feature sections, testimonials, pricing cards, FAQ section, pre-footer CTA button and a footer.
 
